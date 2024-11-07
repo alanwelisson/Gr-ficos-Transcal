@@ -12,4 +12,4 @@ Alterações que podem ser feitas:
 - Cores
 
 Se faltou alguma questão, é só avisar.
--Alan
+~Alan
