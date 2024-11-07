@@ -13,4 +13,4 @@ Alterações que podem ser feitas:
 
 Se faltou alguma questão, é só avisar.
 
-~Alan
+-Alan
