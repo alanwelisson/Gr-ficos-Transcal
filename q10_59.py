@@ -98,7 +98,7 @@ N = [2, 5, 10]
 
 for i in range(len(N)):
     for t in Ts:
-        taxas[i].append(m(N[i], t))
+        taxas[i].append(100*m(N[i], t))
 
 
 # Plot
