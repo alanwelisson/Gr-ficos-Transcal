@@ -13,7 +13,9 @@ Alterações que podem ser feitas:
 
 Obs: O terceiro gráfico da questão 8.61 não está com os valores 100% corretos, mas estão próximos do gráfico do solucionário.
 
-Obs2: O gráfico da questão 10.56 estava com os valores 100 vezes menores do que na solução. Já foi corrigido.
+Obs2: Para a questão 8.49, o diâmetro foi considerado como 0.025 m para ser igual à resposta do solucionário.
+
+Obs3: O gráfico da questão 10.56 estava com os valores 100 vezes menores do que na solução. Já foi corrigido.
 
 Se faltou alguma questão, é só avisar.
 
