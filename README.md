@@ -1,4 +1,4 @@
-# Gráficos da Lista 3 de Transcal
+# Gráficos de Transcal
 Bibliotecas necessárias:
 - Math
 - Matplotlib
