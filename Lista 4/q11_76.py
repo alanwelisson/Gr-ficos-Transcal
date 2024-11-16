@@ -53,8 +53,6 @@ m_c = np.linspace(15, 25)
 m_cd = []
 for i in range(len(Tc_e)):
     m_cd.append([])
-
-for i in range(len(Tc_e)):
     for m in m_c:
         m_cd[i].append(taxa_cond(m, Tc_e[i]))
 
