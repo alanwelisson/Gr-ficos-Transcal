@@ -61,6 +61,7 @@ for i in range(len(Tc_e)):
 # colors = ["red", "green", "blue"] -> lista de cores
 
 plt.style.use("seaborn-v0_8")
+
 for i in range(len(m_cd)):
     plt.plot(m_c, m_cd[i], label=f"Tc_e = {Tc_e[i]} K")  # Adicionar color=f"{colors[i]}" se tiver a lista de cores
 plt.xlabel("Vazão de água (kg/s)")
