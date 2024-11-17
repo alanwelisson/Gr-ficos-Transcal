@@ -15,7 +15,7 @@ C2 = 1.439e4
 # Funções
 
 def f(lambdaT):
-    return C1/(sigma*lambdaT**5 * (np.exp(C2/(lambdaT)) - 1))
+    return C1/(sigma*lambdaT**5 * (np.exp(C2/lambdaT) - 1))
 
 def F(lambdaT):
     if lambdaT <= 1e-10:
