@@ -49,7 +49,7 @@ def taxa_cond(m, Tc_e):
 # Plot
 
 Tc_e = [280, 285, 290]  # Temperaturas de entrada (coloque quantas quiser)
-m_c = np.linspace(15, 25)
+m_c = np.linspace(15, 25, 100)
 m_cd = []
 for i in range(len(Tc_e)):
     m_cd.append([])
