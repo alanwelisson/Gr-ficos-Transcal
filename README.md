@@ -11,7 +11,7 @@ Alterações que podem ser feitas:
 - Título
 - Cores
 
-Aviso: o gráfico da questão 13.114 está diferente do solucionário, propositalmente. Pelo visto, o gráfico do solucionário não condiz com a resposta da questão, e a escala está errada.
+Aviso: o gráfico da questão 13.114 está diferente do solucionário, propositalmente. Pelo visto, o gráfico do solucionário não condiz com a resposta do item (a), e a escala está errada.
 
 Se faltou alguma questão ou se tiver algum erro, é só avisar.
 
